@@ -1,9 +1,10 @@
 # Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212222240117
 ### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts.
 
-### Algorithm:  1. Direct Instruction Prompts
+### Algorithm:  
+1. Direct Instruction Prompts
 Objective: Guide the chatbot to respond concisely to customer inquiries.
 Prompt Pattern:
 Prompt: "When a customer asks for the status of their order, reply with: 'Your order is currently being processed and will be delivered by [date].'"
@@ -44,5 +45,6 @@ Result: The various types of Prompts are executed successfully.
 
 
 
-# Result: Thus the Prompts were exected succcessfully .
+# Result: 
+Thus the Prompts were exected succcessfully .
 
